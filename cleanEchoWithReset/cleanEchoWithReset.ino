@@ -75,7 +75,8 @@ if(greenOn!=true){
     digitalWrite(redLight, LOW);
 //  digitalWrite(greenLight, HIGH);
 //    delay(3000);//this does NOT work to see if the distance is constant. (Requires further research)
-      greenOn = true;
+    Serial.println("at the end");
+    greenOn = true;
   } else {
     Serial.print("Distance: ");
     Serial.print(distance);
