@@ -73,8 +73,6 @@ if(greenOn!=true){
     Serial.print("You got the right distance: ");
     Serial.println(distance);
     digitalWrite(redLight, LOW);
-//  digitalWrite(greenLight, HIGH);
-//    delay(3000);//this does NOT work to see if the distance is constant. (Requires further research)
     Serial.println("at the end");
     greenOn = true;
   } else {
@@ -84,11 +82,9 @@ if(greenOn!=true){
     digitalWrite(greenLight, LOW);
     digitalWrite(redLight, HIGH);
   }
-  
   if(greenOn == true){
     digitalWrite(greenLight, HIGH);
   }
-  
 }
 
 delay(500);
