@@ -106,11 +106,17 @@ void readJoystick(){//get directions from JoyStick
      joyStickPushes[5]==4 &&
      joyStickPushes[6]==3 &&
      joyStickPushes[7]==4){
-      Serial.print("Konami CODE!!! w00t!!");
+      konamiCode();
+      joyStickPushes[7]=8;
       joyStickCodeCheck = true;
      }
   
 }//end of read Joystick
+
+void konamiCode(){
+  Serial.print("Konami CODE!!! w00t!!");
+}
+
 
 //get numerical values from JoyStick
 void joyStickValues(){
