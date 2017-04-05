@@ -73,19 +73,21 @@ void reset(){
   if (btnReading == HIGH && btnPrevious == LOW && millis() - time > debounce) {
     if (btnState == HIGH){
       btnState = LOW;
-      Serial.println("A the reset button has been hit");
-      greenOn = false;
-      
+      restartValues();
     }else{
       btnState = HIGH;
-      Serial.println("B the reset button has been hit");
-      greenOn = false;
+      restartValues();
     }
     time = millis();    
   }
 
   btnPrevious = btnReading; 
 }//end of reset
+
+void restartValues(){//put all starting values here for reset
+    Serial.println("The reset button has been hit");
+    greenOn = false;
+}
 
 void echo(){
   /////////////////FOR THE ECHO PIN/////////////////////////////////
