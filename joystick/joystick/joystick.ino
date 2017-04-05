@@ -22,10 +22,20 @@ void setup() {
 }
 
 void loop() {
+  readJoystick();
+
+  delay(100);
+}
+
+///////////////////////////////////////
+/////////FUNCTIONS/////////////////////
+///////////////////////////////////////
+
+//get directions from JoyStick
+void readJoystick(){
   joyStickXPosition = analogRead(joyStickXPin);
   joyStickYPosition = analogRead(joyStickYPin);
   joyStickButtonState = digitalRead(joyStickButtonPin);
-
   if(joyStickXPosition >= 700){
     if(joyStickXLast != 1){
       joyStickXLast = 1;
@@ -39,8 +49,6 @@ void loop() {
   }else{
     joyStickXLast = 0;
   }
-
-
   if(joyStickYPosition >= 700){
     if(joyStickYLast != 1){
       joyStickYLast = 1;
@@ -54,18 +62,15 @@ void loop() {
   }else{
     joyStickYLast = 0;
   }
-
- 
-
-
-
-  
-//  Serial.print("X: ");
-//  Serial.print(joyStickXPosition);
-//  Serial.print(" | Y: ");
-//  Serial.print(joyStickYPosition);
-//  Serial.print(" | Button: ");
-//  Serial.println(joyStickButtonState);
-
-  delay(100);
 }
+
+//get numerical values from JoyStick
+void joyStickValues(){
+  Serial.print("X: ");
+  Serial.print(joyStickXPosition);
+  Serial.print(" | Y: ");
+  Serial.print(joyStickYPosition);
+  Serial.print(" | Button: ");
+  Serial.println(joyStickButtonState);
+}
+
