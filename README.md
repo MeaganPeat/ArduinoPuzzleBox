@@ -71,7 +71,11 @@
   </tbody>
 </table>
 
-<h3>Step One - Building the Enclosure</h3>
+<h3>Step One - The Code</h3>
+<img src='build/unfoldedBox' alt='unfolded box'>
+
+
+<h3>Step Two - Building the Enclosure</h3>
 <img src='build/unfoldedBox' alt='unfolded box'>
 <ul>
 <li>Decide how large you want your box. I chose 15x15 cm squares. 
@@ -85,14 +89,18 @@ when the box is mostly built so leave yourself room to work if you need it.</li>
 <li>Cut out holes for any hardware that needs to be outside the box
   <ul>
     <li>Cut two round holes for the ultrasonic sensor. If you measure and cut carefully that could be enough to hold the sensor in place!</li>
-    <li>Cut a small hole for the reset button where you wish to place the reset button (I chose the top)</li>
+    <li>Cut a small hole for the push button that will serve as the reset button where you wish to place the reset button (I chose the top)</li>
     <li>Cut a hole for the joystick on the top of the box</li>
     <li>Poke two small holes for each LED on the top of the box</li>
   </ul>
 </li>
-<li></li>
-<li></li>
-<li></li>
+<li>Attach any components that will be difficult to install later. (Make sure to leave room to add wires later when the box is formed. I used a combination of extra foam core and hotglue to secure the push button and the joystick)</li>
+<li>Use hotglue on the inside or outside seams of the cube to hotglue all but one panel into a cube
+  <ul>
+    <li>Fold one panel 90 degrees and secure with hotglue on the fold. (I did both the inside and outside seams for extra stability)</li>
+    <li>Repeat until there is one pannel not secured into the box</li>
+  </ul>
+</li>
 </ul>
 
 
