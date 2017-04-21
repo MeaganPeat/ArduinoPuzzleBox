@@ -23,12 +23,12 @@
 <li>black tea (I used an orange pekoe teabag)</li>
 </ul>
 
-<h2>Assembly List</h2>
+<h2>Arduino Parts List</h2>
 <table>
 
   <thead>
    <tr>
-    <th>Label</th>
+    <th></th>
     <th>Part Type</th>
     <th>Properties</th>
     </tr>
@@ -49,7 +49,7 @@
 </tr><tr>
     <td>1</td>
     <td>Thumb Joystick</td>
-    <td class="props"></td>
+    <td class="props">2-Axis</td>
 </tr><tr>
     <td>15</td>
     <td>220Ω Resistor</td>
