@@ -17,8 +17,8 @@
 <li>an arduino and necessary components (listed below)</li>
 <li>jumper cables (I used aproximately 40 male-male and 40 male-female)</li>
 </ul>
-<ul>
 <b>For the box</b>
+<ul>
 <li>foam core (I used black)</li>
 <li>hot glue</li>
 <li>a precision knife</li>
@@ -70,4 +70,42 @@
 </tr>
   </tbody>
 </table>
+
+<h3>Step One - Building the Enclosure</h3>
+<img src='build/unfoldedBox' alt='unfolded box'>
+<ul>
+<li>Decide how large you want your box. I chose 15x15 cm squares. 
+Remember that you will have to wire all your components together 
+when the box is mostly built so leave yourself room to work if you need it.</li>
+<li>Measure six squares in your choice layed out like the picture above 
+(Like a cross with four squares up-down and three squares across) </li>
+<li>Use a precision knife to cut out the box. 
+(I find that it takes at least two passes with the knife and that the knife dulls quickly so be careful)</li>
+<li>On one side of the box score score the lines between each box. Be careful not to cut through the foam entirely. Aim for either one pass of the knife, or just through one layer of the paper and most of the foam in the core. This will allow you to fold the foam core</li>
+<li>Cut out holes for any hardware that needs to be outside the box
+  <ul>
+    <li>Cut two round holes for the ultrasonic sensor. If you measure and cut carefully that could be enough to hold the sensor in place!</li>
+    <li>Cut a small hole for the reset button where you wish to place the reset button (I chose the top)</li>
+    <li>Cut a hole for the joystick on the top of the box</li>
+    <li>Poke two small holes for each LED on the top of the box</li>
+  </ul>
+</li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+
+
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
 
