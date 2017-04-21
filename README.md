@@ -73,7 +73,7 @@
 
 <h3>Step One - The Code</h3>
 <img src='build/unfoldedBox' alt='unfolded box'>
-
+<p>Upload the code to the arduino via USB. Please use puzzleCodeWithLights.ino under the directory of the same name. You can use the Arduino IDE (availible at https://www.arduino.cc/en/Main/Software). I used version 1.8.2 when making this project. If you wish to test if any of your components are working, which I recommend you do before installing, you can use your own code, your own code, or the examples that come with the Arduino. (These examples can be found under file: examples in the Arduino IDE). Please note that you cannot upload code when there is something plugged into pins one or two of the arduino, so if you are using those pins, temporarily remove them whenever uploading the code and then plug them back in once uploaded. These pins are also used for serial communication with the computer so if you are using them for other reasons make sure to remove all serial communication in your code.<p>
 
 <h3>Step Two - Building the Enclosure</h3>
 <img src='build/unfoldedBox' alt='unfolded box'>
@@ -103,8 +103,7 @@ when the box is mostly built so leave yourself room to work if you need it.</li>
 </li>
 </ul>
 
-
-
+<h3>Step Three - Installing the Arduino</h3>
 <ul>
 <li></li>
 <li></li>
