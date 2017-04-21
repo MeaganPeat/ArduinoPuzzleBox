@@ -11,12 +11,14 @@
 
 <h1>Tutorial</h1>
 <h3>You Need:</h3>
+
+<b>For the electronics</b>
 <ul>
-<li><b>Electronic</b></li>
 <li>an arduino and necessary components (listed below)</li>
 <li>jumper cables (I used aproximately 40 male-male and 40 male-female)</li>
-<li>electrical wire (insulated)</li>
-<li><b>Building the box</b></li>
+</ul>
+<ul>
+<b>For the box</b>
 <li>foam core (I used black)</li>
 <li>hot glue</li>
 <li>a precision knife</li>
