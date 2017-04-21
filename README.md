@@ -12,20 +12,19 @@
 <h1>Tutorial</h1>
 <h3>You Need:</h3>
 <ul>
-<li>a computer with a browser, a USB port, and speakers</li>
-<li>a Makey Makey board</li>
+<li><b>Electronic</b></li>
+<li>an arduino and necessary components (listed below)</li>
+<li>jumper cables (I used aproximately 40 male-male and 40 male-female)</li>
 <li>electrical wire (insulated)</li>
-<li>alligator clips (I used 8)</li>
-<li>decorative (but conductive) wire, such as beading wire</li>
-<li>a stretched canvas</li>
-<li>paint (I used acrylic)</li>
-<li>paper</li>
-<li>black tea (I used an orange pekoe teabag)</li>
+<li><b>Building the box</b></li>
+<li>foam core (I used black)</li>
+<li>hot glue</li>
+<li>a precision knife</li>
+<li>a metal ruler or square</li>
 </ul>
 
-<h2>Arduino Parts List</h2>
+<h3>Arduino Parts List</h3>
 <table>
-
   <thead>
    <tr>
     <th></th>
