@@ -35,123 +35,23 @@
   </thead>
   <tbody>
   <tr>
-    <td>hc-sr1</td>
-    <td>hc-sr04</td>
+    <td>1</td>
+    <td>Ultrasonic Distance Sensor (hc-sr04)</td>
     <td class="props">variant hc-sr04</td>
 </tr><tr>
-    <td>LED1</td>
+    <td>12</td>
     <td>Red (633nm) LED</td>
     <td class="props">color Red (633nm); package 5 mm [THT]; leg yes</td>
 </tr><tr>
-    <td>LED2</td>
-    <td>Red (633nm) LED</td>
-    <td class="props">color Red (633nm); package 5 mm [THT]; leg yes</td>
-</tr><tr>
-    <td>LED3</td>
-    <td>Red (633nm) LED</td>
-    <td class="props">color Red (633nm); package 5 mm [THT]; leg yes</td>
-</tr><tr>
-    <td>LED4</td>
-    <td>Red (633nm) LED</td>
-    <td class="props">color Red (633nm); package 5 mm [THT]; leg yes</td>
-</tr><tr>
-    <td>LED5</td>
-    <td>Red (633nm) LED</td>
-    <td class="props">color Red (633nm); package 5 mm [THT]; leg yes</td>
-</tr><tr>
-    <td>LED6</td>
-    <td>Red (633nm) LED</td>
-    <td class="props">color Red (633nm); package 5 mm [THT]; leg yes</td>
-</tr><tr>
-    <td>LED7</td>
-    <td>Red (633nm) LED</td>
-    <td class="props">color Red (633nm); package 5 mm [THT]; leg yes</td>
-</tr><tr>
-    <td>LED8</td>
-    <td>Red (633nm) LED</td>
-    <td class="props">color Red (633nm); package 5 mm [THT]; leg yes</td>
-</tr><tr>
-    <td>LED9</td>
-    <td>Red (633nm) LED</td>
-    <td class="props">color Red (633nm); package 5 mm [THT]; leg yes</td>
-</tr><tr>
-    <td>LED10</td>
-    <td>Red (633nm) LED</td>
-    <td class="props">color Red (633nm); package 5 mm [THT]; leg yes</td>
-</tr><tr>
-    <td>LED11</td>
-    <td>Red (633nm) LED</td>
-    <td class="props">color Red (633nm); package 5 mm [THT]; leg yes</td>
-</tr><tr>
-    <td>LED12</td>
-    <td>Red (633nm) LED</td>
-    <td class="props">color Red (633nm); package 5 mm [THT]; leg yes</td>
-</tr><tr>
-    <td>Part1</td>
+    <td>1</td>
     <td>Arduino Uno (Rev3) - ICSP</td>
     <td class="props">type Arduino UNO (Rev3) - ICSP (w/o icsp2)</td>
 </tr><tr>
-    <td>Part2</td>
+    <td>1</td>
     <td>Thumb Joystick</td>
     <td class="props"></td>
 </tr><tr>
-    <td>R1</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>R2</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>R3</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>R4</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>R5</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>R6</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>R7</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>R8</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>R9</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>R10</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>R11</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>R12</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>R13</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>R14</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>R15</td>
+    <td>15</td>
     <td>220Ω Resistor</td>
     <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
 </tr><tr>
@@ -172,7 +72,11 @@
 <h2>Shopping List</h2>
 <table>
   <thead>
-	<tr>
+<tr>
+    <td>1</td>
+    <td>Arduino Uno (Rev3) - ICSP</td>
+    <td class="props">type Arduino UNO (Rev3) - ICSP (w/o icsp2)</td>
+</tr><tr>
     <th>Amount</th>
     <th>Part Type</th>
     <th>Properties</th>
@@ -187,10 +91,6 @@
     <td>12</td>
     <td>Red (633nm) LED</td>
     <td class="props">color Red (633nm); package 5 mm [THT]; leg yes</td>
-</tr><tr>
-    <td>1</td>
-    <td>Arduino Uno (Rev3) - ICSP</td>
-    <td class="props">type Arduino UNO (Rev3) - ICSP (w/o icsp2)</td>
 </tr><tr>
     <td>1</td>
     <td>Thumb Joystick</td>
