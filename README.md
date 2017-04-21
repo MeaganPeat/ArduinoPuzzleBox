@@ -36,56 +36,11 @@
   <tbody>
   <tr>
     <td>1</td>
+    <td>Arduino Uno (Rev3) - ICSP</td>
+    <td class="props">type Arduino UNO (Rev3) - ICSP (w/o icsp2)</td>
+</tr><tr>
+    <td>1</td>
     <td>Ultrasonic Distance Sensor (hc-sr04)</td>
-    <td class="props">variant hc-sr04</td>
-</tr><tr>
-    <td>12</td>
-    <td>Red (633nm) LED</td>
-    <td class="props">color Red (633nm); package 5 mm [THT]; leg yes</td>
-</tr><tr>
-    <td>1</td>
-    <td>Arduino Uno (Rev3) - ICSP</td>
-    <td class="props">type Arduino UNO (Rev3) - ICSP (w/o icsp2)</td>
-</tr><tr>
-    <td>1</td>
-    <td>Thumb Joystick</td>
-    <td class="props"></td>
-</tr><tr>
-    <td>15</td>
-    <td>220Ω Resistor</td>
-    <td class="props">package THT; tolerance ±5%; resistance 220Ω; bands 4; pin spacing 400 mil</td>
-</tr><tr>
-    <td>S1</td>
-    <td>Tilt Switch</td>
-    <td class="props">package THT; tilt mechanism Mechanical Ball</td>
-</tr><tr>
-    <td>S2</td>
-    <td>Pushbutton</td>
-    <td class="props">package [THT]</td>
-</tr><tr>
-    <td>VCC1</td>
-    <td>Battery block 9V</td>
-    <td class="props">voltage 9V</td>
-</tr>
-  </tbody>
-</table>
-<h2>Shopping List</h2>
-<table>
-  <thead>
-<tr>
-    <td>1</td>
-    <td>Arduino Uno (Rev3) - ICSP</td>
-    <td class="props">type Arduino UNO (Rev3) - ICSP (w/o icsp2)</td>
-</tr><tr>
-    <th>Amount</th>
-    <th>Part Type</th>
-    <th>Properties</th>
-    </tr>
-  </thead>
-  <tbody>
-<tr>
-    <td>1</td>
-    <td>hc-sr04</td>
     <td class="props">variant hc-sr04</td>
 </tr><tr>
     <td>12</td>
