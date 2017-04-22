@@ -1,7 +1,7 @@
 # ArduinoPuzzleBox
 
 <p>The goal of this puzzle is to manipulate and explore the box to turn on all the lights! The app uses various sensors and an Arduino to control 12 red LEDS. Every sensor must be utilized in some way to solve the puzzle.</p>
-<img src="build1.jpg" alt='Puzzle Box">
+<img src="build1.jpg" alt="Puzzle Box" width="300">
 
 <h1>How it Works</h1>
 
